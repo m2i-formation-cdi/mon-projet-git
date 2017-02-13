@@ -1,2 +1,4 @@
 Mise en place de mes projets
 correction de bug sur l'export
+nouvelle fonction pas encore finalisée
+Finalisation de la nouvelle fonction
