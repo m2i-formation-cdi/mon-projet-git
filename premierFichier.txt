@@ -4,5 +4,6 @@ correction de bug sur l'export
 correction d'un autre bug sur master
 nouvelle fonction pas encore finalisée
 Finalisation de la nouvelle fonction
+Modification de l'utilisateur 1
 Modif de l'utilisateur 2
 autre modif utilisateur 2
